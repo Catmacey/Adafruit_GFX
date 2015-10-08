@@ -1,7 +1,7 @@
 Modified Adafruit_GFX library
 =============================
 
-Modified by Matt Casey to use proportional fonts.
+Modified by Matt Casey to use multiple proportional fonts.
 Fonts are in TheDotFactory format.
 https://github.com/pavius/The-Dot-Factory/tree/master/TheDotFactory
 
